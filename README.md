@@ -2,7 +2,7 @@
 developed and deployed Indian sign language ml model to edge device that converts hand gesture to alphabet character and then to speech.
 # Task : Indian Sign Language Recognition(gesture recognition) and Conversion to speech
 
-![sign.png](image-url)
+![sign.png](https://github.com/HarshRajTiwary/Indian-Sign-Language-to-speech-device/blob/main/sign.png)
 
 ## Objective:
 Develop instructional materials for students to learn machine learning using
@@ -68,7 +68,7 @@ Now connect the FTDI to the computer through the usb cable
 
 pin diagram for your ease.
 
-![interfacing.png](image-url)
+![interfacing.png](https://github.com/HarshRajTiwary/Indian-Sign-Language-to-speech-device/blob/main/interfacing.jpg)
 
 ### Installing code to Hardware
 
